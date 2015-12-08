@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php
-		$message= "Content";
+		$message= $_GET["content"];
 	?>
 	<head>
 	</head>
